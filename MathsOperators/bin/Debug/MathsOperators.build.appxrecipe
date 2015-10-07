@@ -1,45 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>LON-DEV-082</Machine>
-    <WindowsUser>John</WindowsUser>
+    <Machine>RTIC-WS</Machine>
+    <WindowsUser>gerardo</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>bdc6c673-5092-4486-b9b7-447ac0a14117</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\MathsOperators.exe">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\bin\Debug\MathsOperators.exe">
       <PackagePath>MathsOperators.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\bin\Debug\MathsOperators.xr.xml">
+      <PackagePath>MathsOperators.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\MainWindow.xbf">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\bin\Debug\MainWindow.xbf">
       <PackagePath>MainWindow.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 6\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\gerardo\Documents\GitHubVisualStudio\equanimous-octo-kumquat\MathsOperators\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
